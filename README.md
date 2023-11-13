@@ -18,3 +18,9 @@ MIT License
 
 Deployed:
 https://anna702.github.io/code_refactor/
+
+## Project screenshots
+
+![deployed page screenshot 1](<assets/images/code_refactor scr1.png>)
+
+![deployed page screenshot 2](<assets/images/code_refactor scr2.png>)
