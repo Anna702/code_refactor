@@ -1,3 +1,4 @@
+/* In this CSS file I combined duplicate elements into single classes, and also removed duplicate properties. I made this file shoter, clearer, and now each single selector has as many personal properties as possible.  */
 * {
   box-sizing: border-box;
   padding: 0;
