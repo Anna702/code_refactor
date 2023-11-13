@@ -16,4 +16,5 @@ MIT License
 
 ## Project status
 
-Completed, deployed:
+Deployed:
+https://anna702.github.io/code_refactor/
